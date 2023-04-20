@@ -5,3 +5,4 @@ Exploratory data analysis (EDA) is an important step in the data analysis proces
 Below, I will provide an example of EDA using the Pandas library, which is widely used for data manipulation and analysis.
 We will use a dataset containing information about Bitcoin Prices from 2014 until 2023. This dataset is available at https://www.kaggle.com/datasets/kapturovalexander/bitcoin-and-other-14-most-significant-cryptos
 
+
